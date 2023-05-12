@@ -42,7 +42,7 @@ This study will focus on analyzing user behavior in entertainment consumption ac
 
 | Project Name                                | Description                                                                                                                                                                                 | Timeframe               |
 |---|---|---|
-| :movie_camera: Analysis of Adult Video Views  | Collect and analyze data on adult video views from websites to identify trends and insights related to user behavior.                   | May 14 - June 11         |
+| :movie_camera: Analysis of Adult Video Views  | Collect and analyze data on adult video views from websites to identify trends and insights related to user behavior.                   | To be determined        |
 |                                             | **Task 2.1: Data Collection & Cleaning**                                                                                                                                                     | To be determined        |
 |                                             | - Collect data on adult video views from websites.                                                                                                                    |                        |
 |                                             | - Collect and clean the data, removing duplicates and addressing missing values as needed.                                                                                                  |                        |
